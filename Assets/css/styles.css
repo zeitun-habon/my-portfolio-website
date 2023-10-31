@@ -1,5 +1,5 @@
 #splash{
-    background-image: url(https://raw.githubusercontent.com/hash004/freecodecamp/master/portfolioPage/images/home.jpg);
+    background-image: url(../images/bg-image1.jpg);
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -27,7 +27,7 @@
 
     /* start about section */
     #about{
-        background-image: url(https://raw.githubusercontent.com/hash004/freecodecamp/master/portfolioPage/images/about.jpg);
+        background-image: url(../images/bg-image2.jpg);
         background-position: center;
         background-size: cover;
         height: 100%;
